@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BinarySearchTest" project="BSPROJECT" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="BinarySearchTest" time="0.027" uniqueid="[engine:junit-jupiter]/[class:BinarySearchTest]">
+    <testcase name="testBSearch" classname="BinarySearchTest" time="0.017" displayname="testBSearch()" uniqueid="[engine:junit-jupiter]/[class:BinarySearchTest]/[method:testBSearch()]"/>
+    <testcase name="testBSearchMiddle" classname="BinarySearchTest" time="0.001" displayname="testBSearchMiddle()" uniqueid="[engine:junit-jupiter]/[class:BinarySearchTest]/[method:testBSearchMiddle()]"/>
+    <testcase name="testBSearchLowIndex" classname="BinarySearchTest" time="0.009" displayname="testBSearchLowIndex()" uniqueid="[engine:junit-jupiter]/[class:BinarySearchTest]/[method:testBSearchLowIndex()]"/>
+  </testsuite>
+</testrun>
